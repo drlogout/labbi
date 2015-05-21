@@ -1,0 +1,17 @@
+{
+  "name": "sitemap-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html-entities": "^1.1.2",
+    "phantom": "^0.7.2",
+    "urlencode": "^1.0.0",
+    "winston": "^1.0.0"
+  }
+}
